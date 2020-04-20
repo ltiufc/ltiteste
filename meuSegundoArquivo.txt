@@ -1,2 +1,2 @@
-local - esse eh meu segundo arquivo 
-local - essa eh a linha 2 do meu segundo arquivo
+local - remoto - esse eh meu segundo arquivo 
+local - remoto - essa eh a linha 2 do meu segundo arquivo
